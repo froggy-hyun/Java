@@ -13,6 +13,7 @@ public class _02_ClassVariables {
         System.out.println(b1.modelName + " 자동리포트기능 - " + b1.canAutoReport);
         System.out.println(b2.modelName + " 자동리포트기능 - " + b2.canAutoReport);
         System.out.println("모든 모델 자동리포트기능 - "+ BlackBox.canAutoReport);
+//        BlackBox.modelName; // 에러 발생
 
         BlackBox.canAutoReport = true;
 
