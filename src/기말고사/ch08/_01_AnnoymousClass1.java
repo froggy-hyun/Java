@@ -1,4 +1,4 @@
-package 기말고사.sec08;
+package 기말고사.ch08;
 
 public class _01_AnnoymousClass1 {
     public static void main(String[] args) {
