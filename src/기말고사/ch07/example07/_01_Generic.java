@@ -1,4 +1,4 @@
-package 기말고사.ch07.example07;
+package 기말고사.ch07.example07;
 
 public class _01_Generic {
     public static void main(String[] args) {

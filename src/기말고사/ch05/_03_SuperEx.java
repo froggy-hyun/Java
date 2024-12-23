@@ -1,4 +1,4 @@
-package 기말고사.ch05;
+package 기말고사.ch05;
 
 class Point {
     private int x, y; // 한점을구성하는x, y 좌표

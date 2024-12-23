@@ -1,4 +1,4 @@
-package 기말고사.ch08;
+package 기말고사.ch08;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package 기말고사.ch09;
+package 기말고사.ch09;
 
 import java.util.StringTokenizer;
 

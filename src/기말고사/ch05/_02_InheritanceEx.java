@@ -1,4 +1,4 @@
-package 기말고사.ch05;
+package 기말고사.ch05;
 
 class Person {
     private int weight;
